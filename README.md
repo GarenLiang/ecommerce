@@ -1,3 +1,3 @@
 # ecommerce
 
-![image](https://github.com/JackLiang1/ecommerce/Snapshot.gif)
+![image](https://github.com/GarenLiang/ecommerce/Snapshot.gif)
