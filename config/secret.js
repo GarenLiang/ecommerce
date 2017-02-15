@@ -1,6 +1,6 @@
 module.exports = {
 
-  database: 'mongodb://',
+  database: 'mongodb://???',
   port: 3000,
-  secretKey: ""
+  secretKey: "???"
 }
